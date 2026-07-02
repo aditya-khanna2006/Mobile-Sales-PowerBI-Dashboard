@@ -6,7 +6,8 @@ An interactive **Power BI dashboard** developed to analyze mobile sales performa
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Image/Mobile Sales Dashboard.png)
+<img width="1446" height="813" alt="Mobile Sales DashBoard" src="https://github.com/user-attachments/assets/c5060de8-7ba0-4c0a-a090-180e45a5b03b" />
+
 
 ---
 
